@@ -17,3 +17,4 @@ Flash Chat is an internet based messaging app similar to WhatsApp, the popular m
 * Learn about the App Lifecycle and how to use viewWillAppear or viewWillDisappear.
 * How to create direct Segues for navigation.
 
+#Your need to install 'CLTypingLabel' 'FirebaseAuth' 'FirebaseFirestore' pods*
