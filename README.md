@@ -18,3 +18,5 @@
 * Learn ingabout the App Lifecycle and how to use viewWillAppear or viewWillDisappear.
 * Create direct Segues for navigation.
 
+![flashcht](https://github.com/mesutgdk/FlashChat/assets/112901255/edcc3187-ebbd-4e92-a57e-98919da59257)
+
