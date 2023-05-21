@@ -18,13 +18,3 @@
 * Learn ingabout the App Lifecycle and how to use viewWillAppear or viewWillDisappear.
 * Create direct Segues for navigation.
 
-
-
-
-
-
-
-
-
-
-#Your need to install 'CLTypingLabel' 'FirebaseAuth' 'FirebaseFirestore' pods*
