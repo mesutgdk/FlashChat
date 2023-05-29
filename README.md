@@ -9,14 +9,14 @@
 * Integrate third party libraries in an app using Cocoapods and Swift Package Manager.
 * Store data in the cloud using Firebase Firestore.
 * Query and sort the Firebase database.
-* Use Firebase for user authentication, registration and login.
-* Work with UITableViews and how to set their data sources and delegates.
-* Create custom views using .xib files to modify native design components.
+* Usage Firebase for user authentication, registration and login.
+* Working with UITableViews and how to set their data sources and delegates.
+* Creating custom views using .xib files to modify native design components.
 * How to embedView Controllers in a Navigation Controller and understand the navigation stack.
-* Create a constants file and use static properties to store Strings and other constants.
+* Static properties to store Strings and other constants.
 * Swift loops and animations using loops.
 * App Lifecycle and how to use viewWillAppear or viewWillDisappear.
-* Create direct Segues for navigation.
+* Direct Segues for navigation.
 
 ![flashcht](https://github.com/mesutgdk/FlashChat/assets/112901255/edcc3187-ebbd-4e92-a57e-98919da59257)
 
