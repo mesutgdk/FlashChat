@@ -14,8 +14,8 @@
 * Create custom views using .xib files to modify native design components.
 * How to embedView Controllers in a Navigation Controller and understand the navigation stack.
 * Create a constants file and use static properties to store Strings and other constants.
-* Learning about Swift loops and create animations using loops.
-* Learn ingabout the App Lifecycle and how to use viewWillAppear or viewWillDisappear.
+* Swift loops and animations using loops.
+* App Lifecycle and how to use viewWillAppear or viewWillDisappear.
 * Create direct Segues for navigation.
 
 ![flashcht](https://github.com/mesutgdk/FlashChat/assets/112901255/edcc3187-ebbd-4e92-a57e-98919da59257)
