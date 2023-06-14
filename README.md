@@ -6,7 +6,7 @@
 
 ## What it contains 
 
-* Integrate third party libraries in an app using Cocoapods and Swift Package Manager.
+* Integrate third party libraries.
 * Store data in the cloud using Firebase Firestore.
 * Query and sort the Firebase database.
 * Usage Firebase for user authentication, registration and login.
