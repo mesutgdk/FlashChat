@@ -12,7 +12,6 @@
 * Usage Firebase for user authentication, registration and login.
 * Working with UITableViews and how to set their data sources and delegates.
 * Creating custom views using .xib files to modify native design components.
-* How to embedView Controllers in a Navigation Controller and understand the navigation stack.
 * Static properties to store Strings and other constants.
 * Swift loops and animations using loops.
 * App Lifecycle and how to use viewWillAppear or viewWillDisappear.
